@@ -21,7 +21,6 @@ a {
   padding: 180px 0 100px 0;
   background-image: url(top.png);
   background-size: cover;
-  color: black;
   text-align: center;
 }
 
@@ -29,6 +28,7 @@ a {
   opacity: 0.7;
   font-size: 45px;
   letter-spacing: 5px;
+  color: white;
 }
 
 .top-wrapper p {
